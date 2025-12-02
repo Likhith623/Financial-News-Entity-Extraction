@@ -17,7 +17,7 @@ env:
 
 jobs:
   deploy:
-    name: Deploy to Cloud Run (No Dockerfile)
+    name: Deploy to Cloud Run 
     runs-on: ubuntu-latest
 
     steps:
