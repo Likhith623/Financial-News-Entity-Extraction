@@ -14,6 +14,10 @@
 
 
 
+
+🌐 **Live Application:** [https://financial-news-entity-extraction-1hzlax8zw.vercel.app/](https://financial-news-entity-extraction-1hzlax8zw.vercel.app/)
+
+
 ## 👥 Contributors
 
 <table>
@@ -42,8 +46,6 @@ Chitikela Ramyashree
 </table>
 
 
-
-🌐 **Live Application:** [https://financial-news-entity-extraction-1hzlax8zw.vercel.app/](https://financial-news-entity-extraction-1hzlax8zw.vercel.app/)
 
 
 <p align="center">
